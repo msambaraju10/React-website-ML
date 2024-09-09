@@ -34,7 +34,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Software Engineering Intern",
+    title: "Software Engineer",
     company: "Jabil",
     location: "St. Petersburg, FL",
     description:
