@@ -44,25 +44,25 @@ export const experiencesData = [
     date: "May 2023 - May 2024",
   },
   {
-    title: "Programmer Analyst",
+    title: "Software Engineer",
     company: "Cognizant Technology Solutions",
-    location: "Kolkata, IN",
+    location: "Hyderabad, IND",
     description:
       "I worked as a Backend developer to transition the modules from SOAP to REST API endpoints to service MetLife enterprise customers.\
       Used Java and Spring Framework to develop the APIs and maintained the operations in MySQL database.",
     icon: React.createElement(CgWorkAlt),
     date: "Jul 2021 - Jul 2022",
   },
-  // {
-  //   title: "Software Engineer Intern",
-  //   company: "Krishi Network",
-  //   location: "New Delhi, IN",
-  //   description:
-  //     "I worked as a Backend developer to improve Fertilizer ordering process by completely refactoring the central admin dashboard.\n\
-  //     Used Java, Spring Boot, React and AWS cloud services",
-  //   icon: React.createElement(CgWorkAlt),
-  //   date: "May 2020 - Jun 2021",
-  // },
+  {
+    title: "Junior Software Engineer",
+    company: "Cognizant Technology Solutions",
+    location: "Tamil Nadu, IN",
+    description:
+      "I worked as a Backend developer to improve Fertilizer ordering process by completely refactoring the central admin dashboard.\n\
+      Used Java, Spring Boot, React and AWS cloud services",
+    icon: React.createElement(CgWorkAlt),
+    date: "Jun 2020 - Jun 2021",
+  },
 ] as const;
 
 export const projectsData = [
