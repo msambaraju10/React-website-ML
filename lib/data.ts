@@ -61,7 +61,7 @@ export const experiencesData = [
       "I worked as a Backend developer to improve Fertilizer ordering process by completely refactoring the central admin dashboard.\n\
       Used Java, Spring Boot, React and AWS cloud services",
     icon: React.createElement(CgWorkAlt),
-    date: "Jun 2020 - Jun 2021",
+    date: "Jan 2021 - Jun 2021",
   },
 ] as const;
 
