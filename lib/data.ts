@@ -56,7 +56,7 @@ export const experiencesData = [
   {
     title: "Junior Software Engineer",
     company: "Cognizant Technology Solutions",
-    location: "Tamil Nadu, IN",
+    location: "Tamil Nadu, IND",
     description:
       "I worked as a Backend developer to improve Fertilizer ordering process by completely refactoring the central admin dashboard.\n\
       Used Java, Spring Boot, React and AWS cloud services",
