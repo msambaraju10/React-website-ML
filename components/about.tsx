@@ -37,7 +37,7 @@ export default function About() {
         real-time and time-series data. My expertise lies in {" "}
         <span className="font-medium">Java, Spring Boot, Microservices, React and AWS
         </span> architecture, cultivated over years of dedicated work. 
-        Demonstrated experience in the IT industry for over 3 years in developing REST APIs in Java with Spring Boot framework for the back-end development and 
+        Demonstrated experience in the IT industry for over 2 years in developing REST APIs in Java with Spring Boot framework for the back-end development and 
         I am equally skilled in building various components and services in React/Angular or front-end development. I have worked on SQL and NoSQL Databases.
        
         </p>
