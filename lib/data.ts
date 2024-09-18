@@ -54,7 +54,7 @@ export const experiencesData = [
     date: "Jul 2021 - Jul 2022",
   },
   {
-    title: "Junior Software Engineer",
+    title: "Software Engineering Intern",
     company: "Cognizant Technology Solutions",
     location: "Tamil Nadu, IND",
     description:
